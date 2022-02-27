@@ -1,5 +1,5 @@
 # DigitalCircuits writeup
-CTF逆向二进制题目:数字电路解体技巧
+CTF逆向二进制题目:数字电路解题技巧
 
 # uncompyle6 version 3.8.0
 # Python bytecode 3.7.0 (3394)
