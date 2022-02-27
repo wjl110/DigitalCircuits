@@ -1,4 +1,4 @@
-# DigitalCircuits
+# DigitalCircuits writeup
 CTF逆向二进制题目:数字电路解体技巧
 
 # uncompyle6 version 3.8.0
